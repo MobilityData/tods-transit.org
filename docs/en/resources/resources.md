@@ -21,7 +21,7 @@ Anne-Sophie Lachapelle, Master's researcher @ Polytechnique Montréal</h4>
 <h6>Facilitated by Carl Fredlund @ MobilityData</h6>
 
 <a href="https://drive.google.com/file/d/1V4V8aOESNOl_1D1-g4UMa6ByPqF3i7mf/view?usp=drive_link" class="video-thumb" target="_blank">
-  <img src="../../assets/images/TODS_Briefing_snapshot.jpg" alt="PDF Preview" style="width: 300px; border: 1px solid #ccc; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);">
+  <img src="../../assets/images/TODS_Briefing_snapshot.jpg" alt="Video" style="width: 300px; border: 1px solid #ccc; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);">
 </a>
 
 <a href="https://tods-transit.org/resources/assets/TODS_Briefing_July_14.pdf" download class="md-button md-button--primary">
