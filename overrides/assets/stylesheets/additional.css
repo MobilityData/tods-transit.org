@@ -94,3 +94,47 @@ th {
     background-color: var(--md-primary-fg-color);
     color: var(--md-default-bg-color);
 }
+
+/* ==============================================
+   VIDEO THUMBNAILS
+   ============================================== */
+
+a.video-thumb {
+  position: relative;
+  display: inline-block;
+  line-height: 0;
+}
+
+a.video-thumb img {
+  display: block;
+}
+
+/* circle */
+a.video-thumb::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 80px;
+  height: 80px;
+  margin: -40px 0 0 -40px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.55);
+  transition: background 0.2s ease;
+}
+
+/* triangle */
+a.video-thumb::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -16px 0 0 -11px;
+  border-style: solid;
+  border-width: 16px 0 16px 26px;
+  border-color: transparent transparent transparent #fff;
+}
+
+a.video-thumb:hover::before {
+  background: rgba(0, 0, 0, 0.8);
+}

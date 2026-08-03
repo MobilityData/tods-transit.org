@@ -61,6 +61,7 @@ extra_css:
   - assets/stylesheets/additional.css
 
 markdown_extensions:
+  - attr_list
   - admonition
   - codehilite:
       linenums: true
