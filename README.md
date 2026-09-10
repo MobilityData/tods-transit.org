@@ -1,6 +1,6 @@
 # tods-transit.org
 
-Source code for [gbfs.org](https://tods-transit.org/).
+Source code for [tods-transit.org](https://tods-transit.org/).
 
 This site was built using [MkDocs](https://www.mkdocs.org/), a static site generator, and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), a technical documentation theme for MkDocs.
 
