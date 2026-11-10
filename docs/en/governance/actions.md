@@ -6,6 +6,8 @@ Record of actions taken by the TODS Board.
 
 | **Date** | **Action** | **Record (Yes - No - Abstain)** |
 | -------- | ---------- | ---------- |
+| 2026-10-26 | Timon Kelter elected to fill voting Board position made vacant by Matthias Grützner.  | (4 - 0 - 0) |
+| 2026-10-26 | Board approval of TODS Board Composition amendments regarding term cohorts, voting requirements, and emeritus membership.  | (4 - 0 - 0) |
 | 2026-03-23 | Board approval to recognize Board Chair as a named role on the TODS Governance page.  | (5 - 0 - 0) |
 | 2025-09-25 | Joshua Fabian elected to replace Scott Frazier as Board Coordinator.  | (5 - 0 - 0) |
 | 2025-04-23 | Board approval of TODS Change Management and Versioning Policy amendment regarding development cycles.  | (5 - 0 - 0) |
@@ -19,6 +21,6 @@ Record of actions taken by the TODS Board.
 | 2024-06-26 | ODS Program Manager granted authority to make non-substantive changes to TODS governance to fix typos and change spec branding from ODS to TODS. | (5 - 0 - 0) |
 | 2024-06-26 | Direct TODS Program Manager to transition TODS versioning to semantic versioning in the format X.X.X representing [breaking change].[non breaking change].[patch]. | (5 - 0 - 0) |
 | 2024-06-26 | Direct TODS Program Manager to release all adopted proposals for a given development cycle under a single "bundled" version, rather than issuing a version for each adopted proposal individually. | (5 - 0 - 0) |
-| 2024-03-11 | Erik Jansen elected as Board Chair. | (5 - 0 - 0) |
+| 2024-03-11 | Erik Jensen elected as Board Chair. | (5 - 0 - 0) |
 | 2024-03-11 | Scott Frazier elected as Board Coordinator. | (5 - 0 - 0) |
 | 2024-03-11 | TODS Program Manager granted authority to move TODS repo out of Cal-ITP organization. | (5 - 0 - 0) |
