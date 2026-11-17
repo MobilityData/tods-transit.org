@@ -100,7 +100,7 @@ Responsibility for the governance of the TODS Project is divided among the follo
 
 | **Role** | **Who** |
 | -------- | ----- |
-| [TODS Board](#tods-board-of-directors) | <ul><li>[Joshua Fabian](https://www.linkedin.com/in/jfabi/), [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)</li><li>[Guilhem Hammel](https://www.linkedin.com/in/guilhemhammel/), [Giro](https://www.giro.ca/en-us/)</li><li>[Erik Jensen](https://www.linkedin.com/in/erik-jensen), [Chicago Transit Authority (CTA)](https://www.transitchicago.com/) (TODS Board Chair)</li><li>[Jeffrey Kessler](https://www.linkedin.com/in/jeffkess/), [Keolis Commuter Services](https://www.keolisna.com/)</li></ul> |
+| [TODS Board](#tods-board-of-directors) | <ul><li>[Joshua Fabian](https://www.linkedin.com/in/jfabi/), [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)</li><li>[Guilhem Hammel](https://www.linkedin.com/in/guilhemhammel/), [Giro](https://www.giro.ca/en-us/)</li><li>[Erik Jensen](https://www.linkedin.com/in/erik-jensen), [Chicago Transit Authority (CTA)](https://www.transitchicago.com/) (TODS Board Chair)</li><li>[Jeffrey Kessler](https://www.linkedin.com/in/jeffkess/), [Keolis Commuter Services](https://www.keolisna.com/)</li><li>[Timon Kelter](https://www.linkedin.com/in/timon-kelter-4b5074131/), [Optibus](https://optibus.com/)</li></ul> |
 | [TODS Board Coordinator](#tods-board-coordinator) | [Joshua Fabian](https://www.linkedin.com/in/jfabi/) |
 | [TODS Manager](#tods-manager) | [MobilityData](https://mobilitydata.org) |
 | [TODS Program Manager](#tods-program-manager) | [Carl Fredlund](https://github.com/carlfredl), [MobilityData](https://mobilitydata.org) |
