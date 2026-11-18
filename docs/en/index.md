@@ -52,34 +52,53 @@ TODS is an open standard which extends GTFS to define additional operational det
 
 ## Who uses TODS?
 
-TODS is used by transit agencies and the software which supports them including:
+TODS is used, supported and referenced by transit agencies, technology providers, governments and researchers. Each entry links to its public source and shows the latest TODS version confirmed for it. Using TODS and not listed? [Open an issue on GitHub](https://github.com/MobilityData/tods-transit.org/issues).
 
-### TODS 2.0+
+:material-check-circle: supported or in use &nbsp; :material-check-circle-outline: in progress or recommended
 
-:material-check-circle: [Optibus](https://optibus.com/)
+### Transit agencies
 
-:material-check-circle: [Giro Hastus](https://www.giro.ca/) (on request)
+:material-check-circle-outline: [MBTA](https://tods-transit.org/resources/resources/#tods-briefing-july-14-2026) (in progress): partial TODS implementations in place (v2.0+)
 
-:material-check-circle-outline: [MBTA](http://mbta.com) (in progress)
+:material-check-circle-outline: [Keolis Commuter Services](https://tods-transit.org/resources/resources/#from-unmet-need-to-new-data-standard-the-journey-of-tods) (in progress): presented the operator case for TODS (v2.0+)
 
-:material-check-circle-outline: [Keolis Commuter Services](https://www.keolisna.com/locations/boston-massachusetts) (in progress)
+:material-check-circle: [San Francisco Bay Ferry (WETA)](https://www.calitp.org/press/cal-itp-partners-celebrate-major-milestone-implementation-ods/): first transit service to use TODS, for non-revenue trip data (v1.0)
 
-### TODS 1.0
+:material-check-circle: [Greenlink](https://ridewithvia.com/resources/easy-ods-export-new-operational-data-standard-files-with-remix): exports TODS from Remix into its Navineo CAD/AVL (v1.0)
 
-:material-check-circle: [WETA](https://weta.sanfranciscobayferry.com/)
+### Technology providers
 
-:material-check-circle: [Swiftly](https://www.goswift.ly/)
+:material-check-circle: [TMS Online](https://www.calitp.org/press/cal-itp-partners-celebrate-major-milestone-implementation-ods/): reads and writes TODS feeds (v1.0)
 
-:material-check-circle: [Equans Navineo](https://navineo.co/about-navineo/)
+:material-check-circle: [Swiftly](https://www.goswift.ly/blog/first-consumer-operational-data-standard): first to import TODS data, with WETA (v1.0)
 
-:material-check-circle: [The Master Scheduler](https://themasterscheduler.com/)
+:material-check-circle: [Navineo (Equans)](https://ridewithvia.com/resources/easy-ods-export-new-operational-data-standard-files-with-remix): TODS datasets part of its standard CAD/AVL offering, in use at Greenlink (v1.0)
 
-:material-check-circle: [Remix by Via](https://www.remix.com/)
+:material-check-circle: [HASTUS (GIRO)](https://www.calitp.org/press/cal-itp-partners-celebrate-major-milestone-implementation-ods/): import/export tools configurable to TODS feeds (v1.0)
 
-:material-check-circle: [Optibus](https://optibus.com/)
+:material-check-circle: [Remix (Via)](https://ridewithvia.com/resources/easy-ods-export-new-operational-data-standard-files-with-remix): one-click TODS export built with Greenlink and Equans, now including TODS 2.1.0 (v2.1.0)
 
-:material-check-circle: [Giro Hastus](https://www.giro.ca/) (on request)
+:material-check-circle-outline: [GMV](https://tods-transit.org/governance/actions/) (in progress): TODS Board backed collaboration on its TODS 2.0 integration (v2.0)
 
+:material-check-circle: [Optibus](https://tods-transit.org/resources/resources/#tods-briefing-july-14-2026): imports and exports TODS between scheduling, operations and AVL systems (v2.0+)
+
+:material-check-circle: TripSpark (Modaxo): supports TODS in Streets product.
+
+### In plans, procurement and research
+
+:material-check-circle-outline: [FTA Report No. 267](https://www.transit.dot.gov/sites/fta.dot.gov/files/2024-08/FTA-Report-No-267.pdf): research report names TODS
+
+:material-check-circle-outline: [MaineDOT](https://www.maine.gov/mdot/transit/docs/2024/Transit%20Fare%20Payment%20and%20CAD-AVL%20Review%20and%20Recommendations.pdf): CAD/AVL review names TODS
+
+:material-check-circle-outline: [Caltrans](https://www.calitp.org/assets/Cal-ITP-Priority-Transit-Technologies-Recommendations.pdf): report recommends formalizing industry commitment to TODS
+
+:material-check-circle-outline: [STLévis](https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=0e49af06-e892-445b-a8fd-b9db186578f0&prov=/recherche-avancee&search=flTxtAllWrds=20064995&isSimpleSearch=true): TODS included in a public tender
+
+:material-check-circle-outline: [N-CATT MDIP Translation Guide](https://n-catt.org/wp-content/uploads/2025/09/Mobility-Data-Interoperability-Principles-MDIP-Translation-Guide-Final.pdf): procurement guide lists TODS
+
+:material-check-circle-outline: [Triangle Region](https://nmcdn.io/e186d21f8c7946a19faed23c3da2f0da/8bfec28a290449a7b10eb1fee3a0e264/files/TPAC/TPAC-Meeting-Files/2026/1-22.26%20tpac/10-Draft-Regional-Technology-Plan_121925.pdf): Regional Technology Plan names TODS
+
+:material-check-circle-outline: [Polytechnique Montréal](https://tods-transit.org/resources/resources/#tods-briefing-july-14-2026): research using TODS for electric bus charging
 ## How do I implement TODS?
 
 If you are transit agency:
