@@ -82,7 +82,7 @@ TODS is used, supported and referenced by transit agencies, technology providers
 
 :material-check-circle: [Optibus](https://tods-transit.org/resources/resources/#tods-briefing-july-14-2026): imports and exports TODS between scheduling, operations and AVL systems (v2.0+)
 
-:material-check-circle: TripSpark (Modaxo): supports TODS in Streets product.
+:material-check-circle: [TripSpark](https://www.tripspark.com/): supports TODS in Streets product.
 
 ### In plans, procurement and research
 
